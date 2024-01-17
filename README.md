@@ -12,6 +12,5 @@ Before running this application, ensure that you have the following prerequisite
 
 - **Microsoft Visual Studio (2019 or later):** This project is developed using C# in Visual Studio. Ensure you have Visual Studio installed with the necessary components for Revit API development.
 
-- **.NET Framework:** The project should be compatible with the version of .NET Framework supported by the Revit API.
 
 
